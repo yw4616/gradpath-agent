@@ -1,4 +1,6 @@
 {
-  "deploy_url": "PASTE_YOUR_CLOUD_RUN_URL_HERE",
-  "authors": ["yw4616"]
+  "deploy_url": "https://gradpath-agent-git-589247151495.us-central1.run.app",
+  "authors": [
+    "yw4616"
+  ]
 }
